@@ -14,7 +14,7 @@
 [carebuddy](http://kdt-sw-8-team01.elicecoding.com/)
 
 ## 와이어프레임
-https://www.figma.com/file/k7YHvnKZwTGjd57iK8snky/Untitled?type=design&mode=design&t=VDVAUR5bmT0xpoXE-0  
+[https://www.figma.com/file/k7YHvnKZwTGjd57iK8snky/Untitled?type=design&mode=design&t=VDVAUR5bmT0xpoXE-0  ](https://www.figma.com/file/k7YHvnKZwTGjd57iK8snky/wireframe?type=design&mode=design&t=VwDd3ghttXOcWzP8-0)  
 
 ## 플로우차트  
 https://www.figma.com/file/io4zwk1YYTtK2cKe3gXv20/flowchart?type=whiteboard&t=VDVAUR5bmT0xpoXE-0  
