@@ -19,6 +19,9 @@
 ## 플로우차트  
 https://www.figma.com/file/io4zwk1YYTtK2cKe3gXv20/flowchart?type=whiteboard&t=VDVAUR5bmT0xpoXE-0  
 
+## 시안 영상
+https://drive.google.com/file/d/1tara2q7fJE0veSm3adFmYvStY-R14YWt/view
+
 ### 시작 가이드
 **installation**
 
